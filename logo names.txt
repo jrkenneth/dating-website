@@ -1,0 +1,4 @@
+logo.png
+small_logo.png
+
+location: C:\xampp\htdocs\dating\wp-content\themes\sweetdate\assets\images
